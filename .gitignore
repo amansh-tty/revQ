@@ -8,3 +8,8 @@ __pycache__/
 
 # Ignore large files
 *.log
+
+# Ignore virtual environments
+ulta_env/
+venv/
+.env
